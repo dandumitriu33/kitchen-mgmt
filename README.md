@@ -1,0 +1,2 @@
+# kitchen-mgmt
+Educational project
